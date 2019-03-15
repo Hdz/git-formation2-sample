@@ -1,3 +1,4 @@
 Bonjour
 C'est un nouveau test
 La c'est la 1stbranch
+Maintent le test de la rebase
